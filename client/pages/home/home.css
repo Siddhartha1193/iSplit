@@ -1,0 +1,42 @@
+article.home {
+  background-color: #11B671;
+}
+article.home {
+  justify-content: center;
+}
+.home p {
+  font-size:40px;
+}
+.home h1 {
+  margin-top:25%;
+}
+.home h2 {
+  margin-top: 25px;
+}
+
+article.home form {
+  position: absolute;
+  bottom:20%;
+  width: 80%;
+  left: 10%;
+  border:10px solid white;
+}
+article.home form p {
+  width: 100%;
+  display: inline;
+  padding-top: 25px;
+  line-height: 100%;
+  vertical-align: middle;
+  text-align: center;
+  position: absolute;
+}
+.btn-camera {
+  height:100px;
+  background-image:url(http://i.imgur.com/iJLkyfI.png);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  opacity: 1;
+  width: 100%;
+  z-index: 1;
+}
